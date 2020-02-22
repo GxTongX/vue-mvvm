@@ -10,7 +10,7 @@ Vue是MVVM框架，其实就是MVC框架在前端的体现，其中的控制器(
 
 而Vue就是一个VM。
 
-![image-20200220142448449](C:\Users\GxTongX\AppData\Roaming\Typora\typora-user-images\image-20200220142448449.png)
+![image-20200220142448449](https://github.com/GxTongX/vue-mvvm/raw/master/img/image-20200220142448449.png)
 
 Vue的可以说是开箱即用，它的使用非常简单，如下所示：
 
@@ -522,4 +522,4 @@ class MVue {
 }
 ```
 
-![image-20200222105900231](C:\Users\GxTongX\AppData\Roaming\Typora\typora-user-images\image-20200222105900231.png)
+![image-20200222105900231](https://github.com/GxTongX/vue-mvvm/raw/master/img/image-20200222105900231.png)
